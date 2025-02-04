@@ -1,6 +1,6 @@
 ## General
 
-This project was built following to demonstrate a basic  plugin that adjusts audio gain level. To reproduce, follow steps outlined in this JUCE tutorial: https://docs.juce.com/master/tutorial_code_basic_plugin.html 
+This project was built to demonstrate a basic plugin that adjusts audio gain level. To reproduce, follow steps outlined in this JUCE tutorial: https://docs.juce.com/master/tutorial_code_basic_plugin.html 
 
 ## Screenshots
 
