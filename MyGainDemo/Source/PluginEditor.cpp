@@ -30,6 +30,11 @@ MyGainDemoAudioProcessorEditor::MyGainDemoAudioProcessorEditor (MyGainDemoAudioP
 
 }
 
+void MyGainDemoAudioProcessorEditor::sliderValueChanged (juce::Slider* slider)
+{
+    audioProcessor.noteOnVel = midiVolume.getValue();
+}
+
 MyGainDemoAudioProcessorEditor::~MyGainDemoAudioProcessorEditor()
 {
 }
