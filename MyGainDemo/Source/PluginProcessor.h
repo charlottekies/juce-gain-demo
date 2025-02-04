@@ -52,6 +52,9 @@ public:
     //==============================================================================
     void getStateInformation (juce::MemoryBlock& destData) override;
     void setStateInformation (const void* data, int sizeInBytes) override;
+    //This is the variable that we will set with the slider.
+    public:
+        float noteOnVel;
 
 private:
     //==============================================================================

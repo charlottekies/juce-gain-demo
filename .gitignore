@@ -1,0 +1,10 @@
+Builds/
+CMakeFiles/
+bin/
+obj/
+GeneratedCode/
+JuceLibraryCode/
+*.dll
+*.dylib
+*.exe
+.DS_STORE
