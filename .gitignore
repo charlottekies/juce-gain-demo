@@ -1,9 +1,0 @@
-Builds/
-CMakeFiles/
-bin/
-obj/
-GeneratedCode/
-*.dll
-*.dylib
-*.exe
-.DS_STORE
