@@ -3,7 +3,6 @@ CMakeFiles/
 bin/
 obj/
 GeneratedCode/
-JuceLibraryCode/
 *.dll
 *.dylib
 *.exe
